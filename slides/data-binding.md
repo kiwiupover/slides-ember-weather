@@ -9,4 +9,4 @@
 
 <h2><a class="jsbin-embed" href="http://emberjs.jsbin.com/azOxiFa/5/embed?output" target="_blank">Demo</a></h2>
 
-<div class="number"><sup>#</sup>1</div>
+<div class="number"><sup>#</sup>2</div>

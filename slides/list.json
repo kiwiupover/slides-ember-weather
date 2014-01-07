@@ -18,39 +18,27 @@
         }
     },
     {
+        "filename": "ember-inspector.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    {
         "filename": "data-binding.md",
         "attr": {
             "data-background": "#f39c12"
         }
     },
     {
+        "filename": "the-router.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
         "filename": "ember-apps.md",
         "attr": {
             "data-background": "#e67e22"
-        }
-    },
-    {
-        "filename": "components.md",
-        "attr": {
-            "data-background": "#8e44ad"
-        }
-    },
-    {
-        "filename": "js-mvc.md",
-        "attr": {
-            "data-background": "#3498db"
-        }
-    },
-    {
-        "filename": "ember-gems.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "ember-inspector.md",
-        "attr": {
-            "data-background": "#2c3e50"
         }
     },
     [
@@ -80,6 +68,18 @@
         }
     ],
     {
+        "filename": "js-mvc.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "ember-gems.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
         "filename": "the-structure-of-an-ember-app.md",
         "attr": {
             "data-background": "#7f8c8d"
@@ -92,9 +92,33 @@
         }
     },
     {
+        "filename": "components.md",
+        "attr": {
+            "data-background": "#8e44ad"
+        }
+    },
+    {
         "filename": "tips-for-ruby-developers.md",
         "attr": {
             "data-background": "#e74c3c"
+        }
+    },
+    {
+        "filename": "htmlbars.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "ember-testing.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "the-community.md",
+        "attr": {
+            "data-background": "#ff0000"
         }
     }
 ]

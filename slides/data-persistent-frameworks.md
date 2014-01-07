@@ -6,4 +6,4 @@
 
 ###Ember Model
 
-<div class="number"><sup>#</sup>4</div>
+<div class="number"><sup>#</sup>5</div>

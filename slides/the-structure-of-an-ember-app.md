@@ -1,4 +1,3 @@
 ##Familiar Application Structure
 
-App -|
-  |-
+<div class="number"><sup>#</sup>8</div>

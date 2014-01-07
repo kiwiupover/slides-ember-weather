@@ -8,8 +8,8 @@
 
 #### [Urbanspoon](http://owner.urbanspoon.com)
 
-#### [vine.co](http://vine.co) Launched with Ember a week ago
+#### [vine.co](http://vine.co)
 
 #### More: Square, Zendesk
 
-<div class="number"><sup>#</sup>2</div>
+<div class="number"><sup>#</sup>4</div>
