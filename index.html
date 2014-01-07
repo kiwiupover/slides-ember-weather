@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>Ember Js</title>
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.min.css">
+
+        <link rel="stylesheet" href="css/theme.css" id="theme">
+        <link rel="stylesheet" href="css/dave.css" id="theme">
+
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css" id="highlight-theme">
+
+        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+        <script>
+          document.write( '<link rel="stylesheet" href="bower_components/reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+        </script>
+        <script type="text/javascript" src="//use.typekit.net/xxt1ybl.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <script src="http://static.jsbin.com/js/embed.js"></script>
+
+
+        <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div class="reveal">
+
+            <div class="slides">
+
+                
+                    
+                        
+    <section data-background="#34495e" data-markdown="slides/index.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#2ecc71" data-markdown="slides/dave-laird.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#ff0000" data-markdown="slides/14-for-14.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#f39c12" data-markdown="slides/data-binding.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#e67e22" data-markdown="slides/ember-apps.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#8e44ad" data-markdown="slides/components.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#3498db" data-markdown="slides/js-mvc.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#34495e" data-markdown="slides/ember-gems.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#2c3e50" data-markdown="slides/ember-inspector.md"></section>
+
+
+                    
+                    
+                
+                    
+                    
+                        <section>
+                            
+                                
+    <section data-background="#d35400" data-markdown="slides/data-persistent-frameworks.md"></section>
+
+
+                            
+                                
+    <section data-background="#d35400" data-markdown="slides/ember-data.md"></section>
+
+
+                            
+                                
+    <section data-background="#d35400" data-markdown="slides/epf.md"></section>
+
+
+                            
+                                
+    <section data-background="#d35400" data-markdown="slides/ember-model.md"></section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                        
+    <section data-background="#7f8c8d" data-markdown="slides/the-structure-of-an-ember-app.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#2ecc71" data-markdown="slides/active-model-serializer.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background="#e74c3c" data-markdown="slides/tips-for-ruby-developers.md"></section>
+
+
+                    
+                    
+                
+            </div>
+
+        </div>
+
+        <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
+        <script src="bower_components/reveal.js/js/reveal.min.js"></script>
+        <script>
+            // Configure Reveal
+            // Full list of configuration options available here:
+            // https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+
+                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || 'concave', // default/cube/page/concave/zoom/linear/fade/none
+
+                // Optional libraries used to extend on reveal.js
+                dependencies: [
+                    { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                    { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+                    { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+                    // { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+                    //{ src: 'bower_components/reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+
+                    { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+                ]
+            });
+        </script>
+
+    </body>
+
+</html>

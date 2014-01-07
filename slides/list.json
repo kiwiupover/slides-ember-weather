@@ -1,0 +1,100 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "dave-laird.md",
+        "attr": {
+            "data-background": "#2ecc71"
+        }
+    },
+    {
+        "filename": "14-for-14.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "data-binding.md",
+        "attr": {
+            "data-background": "#f39c12"
+        }
+    },
+    {
+        "filename": "ember-apps.md",
+        "attr": {
+            "data-background": "#e67e22"
+        }
+    },
+    {
+        "filename": "components.md",
+        "attr": {
+            "data-background": "#8e44ad"
+        }
+    },
+    {
+        "filename": "js-mvc.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "ember-gems.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "ember-inspector.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    [
+        {
+            "filename": "data-persistent-frameworks.md",
+            "attr": {
+                "data-background": "#d35400"
+            }
+        },
+        {
+            "filename": "ember-data.md",
+            "attr": {
+                "data-background": "#d35400"
+            }
+        },
+        {
+            "filename": "epf.md",
+            "attr": {
+                "data-background": "#d35400"
+            }
+        },
+        {
+            "filename": "ember-model.md",
+            "attr": {
+                "data-background": "#d35400"
+            }
+        }
+    ],
+    {
+        "filename": "the-structure-of-an-ember-app.md",
+        "attr": {
+            "data-background": "#7f8c8d"
+        }
+    },
+    {
+        "filename": "active-model-serializer.md",
+        "attr": {
+            "data-background": "#2ecc71"
+        }
+    },
+    {
+        "filename": "tips-for-ruby-developers.md",
+        "attr": {
+            "data-background": "#e74c3c"
+        }
+    }
+]
