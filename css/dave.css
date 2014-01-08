@@ -298,7 +298,8 @@ ul.no-bullet {
   font-size: 6em !important; }
 .reveal pre code {
   font-size: 24px;
-  max-height: 460px; }
+  max-height: 460px;
+  padding: 10px 20px; }
 .reveal .present h6 {
   font-size: 90%;
   position: absolute;

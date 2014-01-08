@@ -8,7 +8,7 @@
     {
         "filename": "dave-laird.md",
         "attr": {
-            "data-background": "#2ecc71"
+            "data-background": "#2980b9"
         }
     },
     {
@@ -26,19 +26,19 @@
     {
         "filename": "data-binding.md",
         "attr": {
-            "data-background": "#f39c12"
+            "data-background": "#3498db"
         }
     },
     {
         "filename": "the-router.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#d35400"
         }
     },
     {
         "filename": "ember-apps.md",
         "attr": {
-            "data-background": "#e67e22"
+            "data-background": "#2c3e50"
         }
     },
     [
@@ -91,12 +91,26 @@
             "data-background": "#2ecc71"
         }
     },
-    {
-        "filename": "components.md",
-        "attr": {
-            "data-background": "#8e44ad"
+    [
+        {
+            "filename": "components.md",
+            "attr": {
+                "data-background": "#8e44ad"
+            }
+        },
+        {
+            "filename": "components-creating.md",
+            "attr": {
+                "data-background": "#8e44ad"
+            }
+        },
+        {
+            "filename": "components-using.md",
+            "attr": {
+                "data-background": "#8e44ad"
+            }
         }
-    },
+    ],
     {
         "filename": "tips-for-ruby-developers.md",
         "attr": {
@@ -106,17 +120,29 @@
     {
         "filename": "htmlbars.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#16a085"
         }
     },
     {
         "filename": "ember-testing.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2980b9"
         }
     },
     {
         "filename": "the-community.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    {
+        "filename": "learn-ember.md",
+        "attr": {
+            "data-background": "#c0392b"
+        }
+    },
+    {
+        "filename": "other-reasons.md",
         "attr": {
             "data-background": "#ff0000"
         }

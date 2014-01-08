@@ -1,5 +1,7 @@
 ##Tips for Ruby Developers
 
-Please change me!
+- Async vs "request response"
+- jQuery domming on page load
+- Unbind two way binding for better perf
 
 <div class="number"><sup>#</sup>11</div>

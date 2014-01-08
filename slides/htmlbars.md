@@ -3,14 +3,14 @@
 
 ####Handlebars
 ```handlebars
-  <img {{bind-attr src=imageUrl}}>
+<img {{bind-attr src=imageUrl}}>
 
 ```
 
 &nbsp;
 ####HTMLbars
 ```handlebars
-  <img src={{imageUrl}}>
+<img src={{imageUrl}}>
 
 ```
 
