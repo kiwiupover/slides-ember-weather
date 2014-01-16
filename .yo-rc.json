@@ -1,6 +1,6 @@
 {
   "generator-reveal": {
-    "presentationTitle": "Ember Js",
+    "presentationTitle": "Ember Weather",
     "packageVersion": "0.0.0",
     "useSass": true
   }

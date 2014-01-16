@@ -6,145 +6,81 @@
         }
     },
     {
-        "filename": "dave-laird.md",
-        "attr": {
-            "data-background": "#2980b9"
-        }
-    },
-    {
-        "filename": "14-for-14.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "ember-inspector.md",
-        "attr": {
-            "data-background": "#2c3e50"
-        }
-    },
-    {
-        "filename": "data-binding.md",
-        "attr": {
-            "data-background": "#3498db"
-        }
-    },
-    {
-        "filename": "the-router.md",
-        "attr": {
-            "data-background": "#d35400"
-        }
-    },
-    {
-        "filename": "ember-apps.md",
-        "attr": {
-            "data-background": "#2c3e50"
-        }
-    },
-    [
-        {
-            "filename": "data-persistent-frameworks.md",
-            "attr": {
-                "data-background": "#d35400"
-            }
-        },
-        {
-            "filename": "ember-data.md",
-            "attr": {
-                "data-background": "#d35400"
-            }
-        },
-        {
-            "filename": "epf.md",
-            "attr": {
-                "data-background": "#d35400"
-            }
-        },
-        {
-            "filename": "ember-model.md",
-            "attr": {
-                "data-background": "#d35400"
-            }
-        }
-    ],
-    {
-        "filename": "js-mvc.md",
-        "attr": {
-            "data-background": "#3498db"
-        }
-    },
-    {
-        "filename": "ember-gems.md",
+        "filename": "joshs-intro-to-ember.md",
         "attr": {
             "data-background": "#34495e"
         }
     },
     {
-        "filename": "the-structure-of-an-ember-app.md",
+        "filename": "joshs-why-ember-what-problems-dose-it-solve.md",
         "attr": {
-            "data-background": "#7f8c8d"
+            "data-background": "#34495e"
         }
     },
     {
-        "filename": "active-model-serializer.md",
+        "filename": "gordon-the-router.md",
         "attr": {
-            "data-background": "#2ecc71"
-        }
-    },
-    [
-        {
-            "filename": "components.md",
-            "attr": {
-                "data-background": "#8e44ad"
-            }
-        },
-        {
-            "filename": "components-creating.md",
-            "attr": {
-                "data-background": "#8e44ad"
-            }
-        },
-        {
-            "filename": "components-using.md",
-            "attr": {
-                "data-background": "#8e44ad"
-            }
-        }
-    ],
-    {
-        "filename": "tips-for-ruby-developers.md",
-        "attr": {
-            "data-background": "#e74c3c"
+            "data-background": "#34495e"
         }
     },
     {
-        "filename": "htmlbars.md",
+        "filename": "gordon-the-the-template.md",
         "attr": {
-            "data-background": "#16a085"
+            "data-background": "#34495e"
         }
     },
     {
-        "filename": "ember-testing.md",
+        "filename": "gordon-intro-the-outlet.md",
         "attr": {
-            "data-background": "#2980b9"
+            "data-background": "#34495e"
         }
     },
     {
-        "filename": "the-community.md",
+        "filename": "gordon-hooking-up-the-route-and-the-template.md",
         "attr": {
-            "data-background": "#2c3e50"
+            "data-background": "#34495e"
         }
     },
     {
-        "filename": "learn-ember.md",
+        "filename": "erik-intro-to-the-model.md",
         "attr": {
-            "data-background": "#c0392b"
+            "data-background": "#34495e"
         }
     },
     {
-        "filename": "other-reasons.md",
+        "filename": "erik-intro-to-the-route.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "erik-inserting-data-from-the-model-into-the-route.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "dave-intro-the-components.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "dave-the-componets-template.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "dave-getting-data-in.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "dave-sending-events-out.md",
+        "attr": {
+            "data-background": "#34495e"
         }
     }
 ]
