@@ -1,5 +1,3 @@
-<img src="images/ember-logo.png" alt="">
+<img src="images/ember-seattle-full-sm.png" alt="" width=30%>
 
-##Ember Weather
-
-####[Ember JS](http://emberjs.com)
+##Ember Deployment and the Index File

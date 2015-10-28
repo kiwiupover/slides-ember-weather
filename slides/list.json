@@ -6,81 +6,53 @@
         }
     },
     {
-        "filename": "joshs-intro-to-ember.md",
+        "filename": "let-s-deploy-something.md",
         "attr": {
             "data-background": "#34495e"
         }
     },
     {
-        "filename": "joshs-why-ember-what-problems-dose-it-solve.md",
+        "filename": "surge.html",
+        "attr": {
+            "data-background": "#DEF1E7"
+        }
+    },
+    {
+        "filename": "the-delivery.md",
+        "attr": {
+            "data-background": "https://drscdn.500px.org/photo/106566383/m%3D2048/4286190dbf556d55bdbe7af0dee3632c",
+            "data-photo-name": "https://500px.com/danr8"
+        }
+    },
+    {
+        "filename": "the-anatomy-of-a-deploy.md",
         "attr": {
             "data-background": "#34495e"
         }
     },
     {
-        "filename": "gordon-the-router.md",
+        "filename": "javascript-and-stylesheets.md",
         "attr": {
-            "data-background": "#34495e"
+            "data-background": "#ff0000"
         }
     },
     {
-        "filename": "gordon-the-the-template.md",
+        "filename": "assets-solutions.md",
         "attr": {
-            "data-background": "#34495e"
+            "data-background": "#ff0000"
         }
     },
     {
-        "filename": "gordon-intro-the-outlet.md",
+        "filename": "the-index-file.md",
         "attr": {
-            "data-background": "#34495e"
+            "data-background": "https://drscdn.500px.org/photo/34688948/m%3D2048/7eb927d418da2c2715995797c687aa0a",
+            "data-photo-name": "https://500px.com/jennymartin"
         }
     },
     {
-        "filename": "gordon-hooking-up-the-route-and-the-template.md",
+        "filename": "three-stories.md",
         "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "erik-intro-to-the-model.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "erik-intro-to-the-route.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "erik-inserting-data-from-the-model-into-the-route.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "dave-intro-the-components.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "dave-the-componets-template.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "dave-getting-data-in.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "dave-sending-events-out.md",
-        "attr": {
-            "data-background": "#34495e"
+            "data-background": "#ff0000"
         }
     }
 ]

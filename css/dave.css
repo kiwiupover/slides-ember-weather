@@ -3,126 +3,6 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-.ptn, .pvn, .pan {
-  padding-top: 0; }
-
-.ptx, .pvx, .pax {
-  padding-top: 2px; }
-
-.pts, .pvs, .pas {
-  padding-top: 5px; }
-
-.ptm, .pvm, .pam {
-  padding-top: 10px; }
-
-.ptl, .pvl, .pal {
-  padding-top: 20px; }
-
-.prn, .phn, .pan {
-  padding-right: 0; }
-
-.prx, .phx, .pax {
-  padding-right: 2px; }
-
-.prs, .phs, .pas {
-  padding-right: 5px; }
-
-.prm, .phm, .pam {
-  padding-right: 10px; }
-
-.prl, .phl, .pal {
-  padding-right: 20px; }
-
-.pbn, .pvn, .pan {
-  padding-bottom: 0; }
-
-.pbx, .pvx, .pax {
-  padding-bottom: 2px; }
-
-.pbs, .pvs, .pas {
-  padding-bottom: 5px; }
-
-.pbm, .pvm, .pam {
-  padding-bottom: 10px; }
-
-.pbl, .pvl, .pal {
-  padding-bottom: 20px; }
-
-.pln, .phn, .pan {
-  padding-left: 0; }
-
-.plx, .phx, .pax {
-  padding-left: 2px; }
-
-.pls, .phs, .pas {
-  padding-left: 5px; }
-
-.plm, .phm, .pam {
-  padding-left: 10px; }
-
-.pll, .phl, .pal {
-  padding-left: 20px; }
-
-.mtn, .mvn, .man {
-  margin-top: 0px; }
-
-.mtx, .mvx, .max {
-  margin-top: 2px; }
-
-.mts, .mvs, .mas {
-  margin-top: 5px; }
-
-.mtm, .mvm, .mam {
-  margin-top: 10px; }
-
-.mtl, .mvl, .mal {
-  margin-top: 20px; }
-
-.mrn, .mhn, .man {
-  margin-right: 0px; }
-
-.mrx, .mhx, .max {
-  margin-right: 2px; }
-
-.mrs, .mhs, .mas {
-  margin-right: 5px; }
-
-.mrm, .mhm, .mam {
-  margin-right: 10px; }
-
-.mrl, .mhl, .mal {
-  margin-right: 20px; }
-
-.mbn, .mvn, .man {
-  margin-bottom: 0px; }
-
-.mbx, .mvx, .max {
-  margin-bottom: 2px; }
-
-.mbs, .mvs, .mas {
-  margin-bottom: 5px; }
-
-.mbm, .mvm, .mam {
-  margin-bottom: 10px; }
-
-.mbl, .mvl, .mal {
-  margin-bottom: 20px; }
-
-.mln, .mhn, .man {
-  margin-left: 0px; }
-
-.mlx, .mhx, .max {
-  margin-left: 2px; }
-
-.mls, .mhs, .mas {
-  margin-left: 5px; }
-
-.mlm, .mhm, .mam {
-  margin-left: 10px; }
-
-.mll, .mhl, .mal {
-  margin-left: 20px; }
-
 @font-face {
   font-family: 'League Gothic';
   src: url('../../lib/font/league_gothic-webfont.eot');
@@ -296,6 +176,10 @@ ul.no-bullet {
   position: absolute;
   top: -100px;
   right: -100px; }
+
+.dark {
+  color: #333 !important;
+  text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.2) !important; }
 
 .number {
   font-size: 120px !important;
