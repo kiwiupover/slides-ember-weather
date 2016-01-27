@@ -1,5 +1,6 @@
 ##  Javascript and Stylesheets
 
-### Compressed and gzip
-### Finger Printed
+### Compressed and Fingerprinted
+
+### GZIP
 ### Served from CDN

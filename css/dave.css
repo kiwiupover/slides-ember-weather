@@ -167,6 +167,10 @@ ul.no-bullet {
   font-family: "bello-caps", 'Lato' !important; }
 .reveal h1 {
   font-size: 6em !important; }
+.reveal h5 {
+  font-size: 20px; }
+.reveal pre {
+  width: 100%; }
 .reveal pre code {
   font-size: 24px;
   max-height: 460px;
