@@ -2,169 +2,67 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background": "#34495e"
+            "data-background": "#E65133"
         }
     },
     {
-        "filename": "let-s-deploy-something.md",
+        "filename": "todays-tweets.md",
         "attr": {
-            "data-background": "#34495e"
+            "data-background": "#55ACEE"
         }
     },
     {
-        "filename": "surge.html",
+        "filename": "thank-you-microsoft.md",
         "attr": {
-            "data-background": "#DEF1E7"
+            "data-background": "#91C300"
         }
     },
     {
-        "filename": "the-delivery.md",
-        "attr": {
-            "data-background": "https://drscdn.500px.org/photo/106566383/m%3D2048/4286190dbf556d55bdbe7af0dee3632c",
-            "data-photo-name": "https://500px.com/danr8",
-            "data-background-transition": "fade"
-        }
-    },
-    {
-        "filename": "the-anatomy-of-a-deploy.md",
-        "attr": {
-            "data-background": "#34495e"
-        }
-    },
-    {
-        "filename": "javascript-and-stylesheets.md",
-        "attr": {
-            "data-background": "#f39c12"
-        }
-    },
-    {
-        "filename": "assets-solutions.md",
-        "attr": {
-            "data-background": "#f39c12"
-        }
-    },
-    {
-        "filename": "the-index-file.md",
-        "attr": {
-            "data-background": "https://drscdn.500px.org/photo/34688948/m%3D2048/7eb927d418da2c2715995797c687aa0a",
-            "data-photo-name": "https://500px.com/jennymartin",
-            "data-background-transition": "fade"
-        }
-    },
-    {
-        "filename": "three-stories.md",
-        "attr": {
-            "data-background": "#1abc9c"
-        }
-    },
-    {
-        "filename": "the-lightning-story.md",
-        "attr": {
-            "data-background": "#3498db"
-        }
-    },
-    {
-        "filename": "the-lightning-story-2.md",
-        "attr": {
-            "data-background": "#3498db"
-        }
-    },
-    {
-        "filename": "the-lightning-story-3.md",
-        "attr": {
-            "data-background": "#3498db"
-        }
-    },
-    {
-        "filename": "the-lightning-story-4.md",
-        "attr": {
-            "data-background": "https://drscdn.500px.org/photo/120592699/m%3D2048_k%3D1/b99fc90a677348bd951761010ddd39ce",
-            "data-photo-name": "https://500px.com/oxanadenezhkina",
-            "data-background-transition": "fade"
-        }
-    },
-    {
-        "filename": "a-manifest-story.md",
-        "attr": {
-            "data-background": "#d35400"
-        }
-    },
-    {
-        "filename": "a-manifest-story2.md",
-        "attr": {
-            "data-background": "#d35400"
-        }
-    },
-    {
-        "filename": "a-manifest-story3.html",
-        "attr": {
-            "data-background": "#d35400"
-        }
-    },
-    {
-        "filename": "a-manifest-story4.md",
-        "attr": {
-            "data-background": "#d35400"
-        }
-    },
-    {
-        "filename": "a-manifest-story5.md",
-        "attr": {
-            "data-background": "#d35400"
-        }
-    },
-    {
-        "filename": "a-manifest-story6.md",
-        "attr": {
-            "data-background": "https://drscdn.500px.org/photo/113901727/m%3D2048/ddf0ae9fcb56821cf628693e75f42bb3",
-            "data-photo-name": "https://500px.com/oxanadenezhkina",
-            "data-background-transition": "fade"
-        }
-    },
-    {
-        "filename": "a-box-story.md",
+        "filename": "ember-conf.md",
         "attr": {
             "data-background": "#2c3e50"
         }
     },
     {
-        "filename": "a-box-story2.md",
+        "filename": "ember-conf2.md",
         "attr": {
             "data-background": "#2c3e50"
         }
     },
     {
-        "filename": "a-box-story3.md",
+        "filename": "helping-the-echo-system.md",
         "attr": {
-            "data-background": "#2c3e50"
+            "data-background": "#2980b9"
         }
     },
     {
-        "filename": "a-box-story7.md",
+        "filename": "fastboot.md",
         "attr": {
-            "data-background": "https://drscdn.500px.org/photo/28222517/m%3D2048/fdc4330243b3bf03462cb9ed88101f74",
-            "data-photo-name": "https://500px.com/nitishmeena",
-            "data-background-transition": "fade"
+            "data-background": "#2980b9"
         }
     },
     {
-        "filename": "a-box-story6.md",
+        "filename": "route-actions-helper.md",
         "attr": {
-            "data-background": "#2c3e50"
+            "data-background": "#2980b9"
         }
     },
     {
-        "filename": "a-box-story8.md",
+        "filename": "ember-weekend.md",
         "attr": {
-            "data-background": "https://drscdn.500px.org/photo/46305098/m%3D2048/3e67a85b8623c9afc4df4d758d75d8c6",
-            "data-photo-name": "https://500px.com/roksanabashyrova",
-            "data-background-transition": "fade"
+            "data-background": "#2980b9"
         }
     },
     {
-        "filename": "last-slide.md",
+        "filename": "slack.md",
         "attr": {
-            "data-background": "#34495e"
+            "data-background": "#2980b9"
+        }
+    },
+    {
+        "filename": "microsoft2.md",
+        "attr": {
+            "data-background": "#FFC300"
         }
     }
 ]

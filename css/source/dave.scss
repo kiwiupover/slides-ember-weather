@@ -74,10 +74,15 @@ ul.no-bullet {
     text-transform: none !important;
   }
   h1, h2 {
-    font-family: "bello-caps", 'Lato' !important;
+    font-family: "bello-pro", 'Lato' !important;
+    text-transform: none !important;
   }
   h1 {
-    font-size: 6em !important;
+    font-size: 4em !important;
+  }
+
+  h1.caps {
+    font-family: "bello-caps", 'Lato' !important;
   }
   h5 {
     font-size: 20px;
@@ -113,6 +118,13 @@ ul.no-bullet {
   sup {
     font-size: 60%;
   }
+}
+
+.white a {
+  color: white !important;
+}
+li > h3, li > h4 {
+  margin-bottom: 0 !important;
 }
 
 @import "code";

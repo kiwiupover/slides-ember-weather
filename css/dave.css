@@ -164,9 +164,12 @@ ul.no-bullet {
   font-family: "atrament-web", 'Lato' !important;
   text-transform: none !important; }
 .reveal h1, .reveal h2 {
-  font-family: "bello-caps", 'Lato' !important; }
+  font-family: "bello-pro", 'Lato' !important;
+  text-transform: none !important; }
 .reveal h1 {
-  font-size: 6em !important; }
+  font-size: 4em !important; }
+.reveal h1.caps {
+  font-family: "bello-caps", 'Lato' !important; }
 .reveal h5 {
   font-size: 20px; }
 .reveal pre {
@@ -194,6 +197,12 @@ ul.no-bullet {
   opacity: 0.7; }
   .number sup {
     font-size: 60%; }
+
+.white a {
+  color: white !important; }
+
+li > h3, li > h4 {
+  margin-bottom: 0 !important; }
 
 .javascript {
   border: 1px solid #d1d1d1;

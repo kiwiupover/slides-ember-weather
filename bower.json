@@ -1,7 +1,7 @@
 {
-  "name": "ember-js",
+  "name": "ember-seattle-meetup",
   "version": "0.0.0",
   "dependencies": {
-    "reveal.js": "9da2921b7452204b99cd1b3e448e22735f16c751"
+    "reveal.js": "3.2.0"
   }
 }
