@@ -6,43 +6,13 @@
         }
     },
     {
-        "filename": "todays-tweets.md",
-        "attr": {
-            "data-background": "#55ACEE"
-        }
-    },
-    {
-        "filename": "thank-you-microsoft.md",
+        "filename": "thank-you.md",
         "attr": {
             "data-background": "#91C300"
         }
     },
     {
-        "filename": "ember-conf.md",
-        "attr": {
-            "data-background": "#2c3e50"
-        }
-    },
-    {
-        "filename": "ember-conf2.md",
-        "attr": {
-            "data-background": "#2c3e50"
-        }
-    },
-    {
         "filename": "helping-the-echo-system.md",
-        "attr": {
-            "data-background": "#2980b9"
-        }
-    },
-    {
-        "filename": "fastboot.md",
-        "attr": {
-            "data-background": "#2980b9"
-        }
-    },
-    {
-        "filename": "route-actions-helper.md",
         "attr": {
             "data-background": "#2980b9"
         }
@@ -60,9 +30,27 @@
         }
     },
     {
-        "filename": "microsoft2.md",
+        "filename": "kelly-selden.md",
         "attr": {
-            "data-background": "#FFC300"
+            "data-background": "#E65133"
+        }
+    },
+    {
+        "filename": "jake-bixby.md",
+        "attr": {
+            "data-background": "#E65133"
+        }
+    },
+    {
+        "filename": "kris-selden.md",
+        "attr": {
+            "data-background": "#E65133"
+        }
+    },
+    {
+        "filename": "thank-you2.md",
+        "attr": {
+            "data-background": "#91C300"
         }
     }
 ]

@@ -204,6 +204,18 @@ ul.no-bullet {
 li > h3, li > h4 {
   margin-bottom: 0 !important; }
 
+p img {
+  border-radius: 3px; }
+
+.fragment-wrapper .github {
+  position: relative;
+  z-index: 1; }
+.fragment-wrapper .twitter {
+  position: absolute;
+  right: 19%;
+  z-index: 2;
+  top: 0; }
+
 .javascript {
   border: 1px solid #d1d1d1;
   font-size: 12px;

@@ -1,4 +1,4 @@
-<img src="images/slack_logo.png" alt="">
+<img src="images/slack_logo.png" width=15% alt="">
 
 ### Seattle
 <span class="white">
