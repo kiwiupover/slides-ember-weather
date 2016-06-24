@@ -1,7 +1,8 @@
-# Generated on 2014-01-03 using generator-reveal 0.3.2
+# Generated on 2016-06-24 using generator-reveal 0.5.9
 module.exports = (grunt) ->
 
     grunt.initConfig
+        pkg: grunt.file.readJSON 'package.json'
 
         watch:
 
@@ -10,10 +11,10 @@ module.exports = (grunt) ->
                     livereload: true
                 files: [
                     'index.html'
-                    'slides/*.md'
-                    'slides/*.html'
+                    'slides/{,*/}*.{md,html}'
                     'js/*.js'
                     'css/*.css'
+                    'resources/**'
                 ]
 
             index:
@@ -31,25 +32,22 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-
+        
             sass:
-                files: [
-                    'css/source/theme.scss'
-                    'css/source/dave.scss'
-                ]
+                files: ['css/source/theme.scss']
                 tasks: ['sass']
 
         sass:
+
             theme:
                 files:
-                    'css/theme.css':    'css/source/theme.scss'
-                    'css/dave.css':     'css/source/dave.scss'
-
+                    'css/theme.css': 'css/source/theme.scss'
+        
         connect:
 
             livereload:
                 options:
-                    port: 9876
+                    port: 9000
                     # Change hostname to '0.0.0.0' to access
                     # the server from outside.
                     hostname: 'localhost'
@@ -62,6 +60,8 @@ module.exports = (grunt) ->
             options:
                 indentation:
                     value: 4
+                max_line_length:
+                    level: 'ignore'
 
             all: ['Gruntfile.coffee']
 
@@ -82,6 +82,7 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'css/*.css'
+                        'resources/**'
                     ]
                     dest: 'dist/'
                 },{
@@ -90,6 +91,8 @@ module.exports = (grunt) ->
                     dest: 'dist/'
                     filter: 'isFile'
                 }]
+
+        
 
 
     # Load all grunt tasks.
@@ -117,7 +120,7 @@ module.exports = (grunt) ->
             'jshint'
         ]
 
-    grunt.registerTask 'server',
+    grunt.registerTask 'serve',
         'Run presentation locally and start watch process (living document).', [
             'buildIndex'
             'sass'
@@ -133,8 +136,10 @@ module.exports = (grunt) ->
             'copy'
         ]
 
+    
+
     # Define default task.
     grunt.registerTask 'default', [
         'test'
-        'server'
+        'serve'
     ]
