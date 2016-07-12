@@ -2,7 +2,7 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background": "#E65133"
+            "data-background": "#6441A5"
         }
     },
     {
@@ -12,45 +12,21 @@
         }
     },
     {
-        "filename": "helping-the-echo-system.md",
-        "attr": {
-            "data-background": "#2980b9"
-        }
-    },
-    {
-        "filename": "ember-weekend.md",
-        "attr": {
-            "data-background": "#2980b9"
-        }
-    },
-    {
         "filename": "slack.md",
         "attr": {
             "data-background": "#2980b9"
         }
     },
     {
-        "filename": "kelly-selden.md",
+        "filename": "components.md",
         "attr": {
-            "data-background": "#E65133"
+            "data-background": "#ff0000"
         }
     },
     {
-        "filename": "jake-bixby.md",
+        "filename": "lookat-components.md",
         "attr": {
-            "data-background": "#E65133"
-        }
-    },
-    {
-        "filename": "kris-selden.md",
-        "attr": {
-            "data-background": "#E65133"
-        }
-    },
-    {
-        "filename": "thank-you2.md",
-        "attr": {
-            "data-background": "#91C300"
+            "data-background": "#ff0000"
         }
     }
 ]
