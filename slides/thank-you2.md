@@ -1,3 +1,3 @@
 ##  Thanks again
 
-<h1 class="caps">Simply Measured</h1>
+<img src="images/twitch-logo-svg.svg" alt="" width=30%>

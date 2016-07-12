@@ -1,14 +1,20 @@
 [
     {
-        "filename": "index.md",
+        "filename": "twitch.md",
         "attr": {
             "data-background": "#6441A5"
         }
     },
     {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "#e46651"
+        }
+    },
+    {
         "filename": "thank-you.md",
         "attr": {
-            "data-background": "#91C300"
+            "data-background": "#6441A5"
         }
     },
     {
@@ -18,15 +24,15 @@
         }
     },
     {
-        "filename": "components.md",
+        "filename": "agenda.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2980b9"
         }
     },
     {
-        "filename": "lookat-components.md",
+        "filename": "thank-you2.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#6441A5"
         }
     }
 ]
